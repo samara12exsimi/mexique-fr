@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"et","comments":{"zero":"Votre avis ?","multiple":"{num} commentaires","one":"1 commentaire"}},"counts":[{"id":"1293 http:\/\/www.mexique-fr.com\/?p=1293","comments":2},{"id":"469 http:\/\/www.mexique-fr.com\/mexfr20\/?p=469","comments":6},{"id":"1152 http:\/\/www.mexique-fr.com\/?p=1152","comments":0},{"id":"80 http:\/\/www.mexique-fr.com\/mexfr20\/?p=80","comments":0},{"id":"444 http:\/\/www.mexique-fr.com\/mexfr20\/?p=444","comments":1},{"id":"593 http:\/\/www.mexique-fr.com\/mexfr20\/?p=593","comments":1},{"id":"440 http:\/\/www.mexique-fr.com\/mexfr20\/?p=440","comments":0},{"id":"1234 http:\/\/www.mexique-fr.com\/?p=1234","comments":1},{"id":"504 http:\/\/www.mexique-fr.com\/mexfr20\/?p=504","comments":3},{"id":"1070 http:\/\/www.mexique-fr.com\/mexfr20\/?p=1070","comments":0}]});
+}
